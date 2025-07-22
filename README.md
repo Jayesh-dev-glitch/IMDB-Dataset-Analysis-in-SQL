@@ -11,7 +11,8 @@ Through SQL queries, we aim to explore movie trends, ratings, votes, popular dir
 # IMDb Movies Dataset Analysis in SQL
 ![IMDb Dataset Screenshot](https://github.com/Jayesh-dev-glitch/IMDB-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125404.png)
 
-
+#
+![IMDb Dataset Screenshot 2](https://github.com/Jayesh-dev-glitch/IMDB-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125430.png)
 
 
 ## ⚙️ Database Setup
