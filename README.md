@@ -8,6 +8,8 @@ Through SQL queries, we aim to explore movie trends, ratings, votes, popular dir
 
 ---
 
+
+
 ## ⚙️ Database Setup
 ### **1. Create Database and Use It**
 ```sql
