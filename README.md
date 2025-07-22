@@ -8,16 +8,16 @@ Through SQL queries, we aim to explore movie trends, ratings, votes, popular dir
 
 ---
 
-# IMDb Movies Dataset Analysis in SQL
+# Retrieve all Information from Table
 ![IMDb Dataset Screenshot](https://github.com/Jayesh-dev-glitch/IMDB-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125404.png)
 
-#
+# Top 5 movies with the highest rating 
 ![IMDb Dataset Screenshot 2](https://github.com/Jayesh-dev-glitch/IMDB-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125430.png)
 
-#
+# Movies that were released in the year 2023
 ![IMDb Dataset Screenshot 3](https://github.com/Jayesh-dev-glitch/IMDB-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125444.png)
 
-#
+# Which genre has the most movies 
 ![IMDb Dataset Screenshot 4](https://github.com/Jayesh-dev-glitch/IMDB-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20125506.png)
 
 ## ⚙️ Database Setup
